@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @singhutkarsh22
+- 👋 Hi, I’m Utkarsh Singh.
+-    I'm a technology freak student.
 - 👀 I’m fall in love with programming.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
